@@ -1,0 +1,40 @@
+2019-11-04 15:11:167 INFO  Registration :51 - Enter First Name
+2019-11-04 15:11:333 INFO  Registration :56 - Enter Last Name
+2019-11-04 15:11:435 INFO  Registration :61 - Enter Email Address
+2019-11-04 15:11:629 INFO  Registration :67 - Enter Phone Number
+2019-11-04 15:11:776 INFO  Registration :72 - Select radio button
+2019-11-04 15:11:848 INFO  Registration :77 - select country
+2019-11-04 15:11:995 INFO  Registration :82 - select year
+2019-11-04 15:11:120 INFO  Registration :87 - select month
+2019-11-04 15:11:238 INFO  Registration :92 - select date
+2019-11-04 15:11:373 INFO  Registration :97 - Enter Password
+2019-11-04 15:11:511 INFO  Registration :102 - Enter Confirm Password
+2019-11-04 15:11:640 INFO  Registration :107 - Enter Submit Button
+2019-11-04 15:11:733 INFO  Registration :113 - verify registration successfully
+2019-11-04 15:11:925 INFO  Summer :24 - click on Wys Option
+2019-11-04 15:11:22 INFO  Summer :29 - Click On Summer Note
+2019-11-04 15:11:317 INFO  Summer :34 - Click On Get Note
+2019-11-04 15:11:591 INFO  Summer :24 - click on Wys Option
+2019-11-04 15:11:709 INFO  Summer :29 - Click On Summer Note
+2019-11-04 15:11:810 INFO  Summer :34 - Click On Get Note
+2019-11-04 15:11:380 INFO  FileDownload :25 - click on More Option
+2019-11-04 15:11:462 INFO  FileDownload :30 - Click On File Download
+2019-11-04 15:11:145 INFO  FileDownload :36 - click On Download ..
+2019-11-04 15:11:438 INFO  FileDownload :42 - Verify Downloading ..
+2019-11-04 15:11:209 INFO  Alert :24 - Click On Switch To ..
+2019-11-04 15:11:349 INFO  Alert :29 - Click On Alert..
+2019-11-04 15:11:161 INFO  Alert :34 - click on alert text..
+2019-11-04 15:11:246 INFO  Alert :39 - match title ..
+2019-11-04 15:11:177 INFO  Registration :51 - Enter First Name
+2019-11-04 15:11:370 INFO  Registration :56 - Enter Last Name
+2019-11-04 15:11:508 INFO  Registration :61 - Enter Email Address
+2019-11-04 15:11:722 INFO  Registration :67 - Enter Phone Number
+2019-11-04 15:11:866 INFO  Registration :72 - Select radio button
+2019-11-04 15:11:931 INFO  Registration :77 - select country
+2019-11-04 15:11:63 INFO  Registration :82 - select year
+2019-11-04 15:11:181 INFO  Registration :87 - select month
+2019-11-04 15:11:295 INFO  Registration :92 - select date
+2019-11-04 15:11:405 INFO  Registration :97 - Enter Password
+2019-11-04 15:11:557 INFO  Registration :102 - Enter Confirm Password
+2019-11-04 15:11:681 INFO  Registration :107 - Enter Submit Button
+2019-11-04 15:11:765 INFO  Registration :113 - verify registration successfully

@@ -1,0 +1,20 @@
+2019-11-05 03:11:980 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 03:11:278 INFO  LoginPage :27 - click on login link
+2019-11-05 03:11:366 INFO  LoginPage :32 - enter email address
+2019-11-05 03:11:949 INFO  LoginPage :37 - enter password
+2019-11-05 03:11:51 INFO  LoginPage :42 - click on submit
+2019-11-05 03:11:718 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 03:11:42 INFO  PracticePage :38 - select BMW Radio Button
+2019-11-05 03:11:641 INFO  PracticePage :48 - select Benz Radio Button
+2019-11-05 03:11:744 INFO  PracticePage :57 - select Honda Option
+2019-11-05 03:11:567 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 03:11:909 INFO  PracticePage :68 - enter text in alert text box
+2019-11-05 03:11:22 INFO  PracticePage :73 - click on Alert Btn
+2019-11-05 03:11:113 INFO  PracticePage :79 - verify alert and accept alert
+2019-11-05 03:11:914 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 03:11:108 INFO  PracticePage :36 - Verify Java Course Fees
+2019-11-05 03:11:144 INFO  PracticePage :42 - Verify Python Course Fees
+2019-11-05 03:11:184 INFO  PracticePage :48 - Verify JavaScript Course Fees
+2019-11-05 03:11:932 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 03:11:61 INFO  PracticePage :53 - mouse hover
+2019-11-05 03:11:237 INFO  PracticePage :60 - verify mouse hover options

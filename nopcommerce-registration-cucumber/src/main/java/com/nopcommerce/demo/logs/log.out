@@ -1,0 +1,9 @@
+2019-11-03 17:11:757 INFO  RegistrationPage :39 - Click On Register Link
+2019-11-03 17:11:658 INFO  RegistrationPage :44 - verify Register Page Open
+2019-11-03 17:11:673 INFO  RegistrationPage :51 - enter first name 
+2019-11-03 17:11:831 INFO  RegistrationPage :56 - enter last name
+2019-11-03 17:11:927 INFO  RegistrationPage :62 - enter email address
+2019-11-03 17:11:72 INFO  RegistrationPage :67 - enter pwd
+2019-11-03 17:11:217 INFO  RegistrationPage :72 - enter confirm password
+2019-11-03 17:11:324 INFO  RegistrationPage :77 - enter register button
+2019-11-03 17:11:261 INFO  RegistrationPage :83 - verify text

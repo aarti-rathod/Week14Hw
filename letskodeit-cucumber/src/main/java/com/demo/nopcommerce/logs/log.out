@@ -1,0 +1,60 @@
+2019-11-05 02:11:681 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:263 INFO  LoginPage :27 - click on login link
+2019-11-05 02:11:427 INFO  LoginPage :32 - enter email address
+2019-11-05 02:11:57 INFO  LoginPage :37 - enter password
+2019-11-05 02:11:160 INFO  LoginPage :42 - click on submit
+2019-11-05 02:11:794 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:757 INFO  PracticePage :38 - select BMW Radio Button
+2019-11-05 02:11:518 INFO  PracticePage :47 - select Benz Radio Button
+2019-11-05 02:11:829 INFO  PracticePage :56 - select Honda Option
+2019-11-05 02:11:525 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:61 INFO  PracticePage :66 - enter text in alert text box
+2019-11-05 02:11:602 INFO  PracticePage :71 - click on Alert Btn
+2019-11-05 02:11:151 INFO  PracticePage :76 - verify alert and accept alert
+2019-11-05 02:11:372 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:540 INFO  PracticePage :36 - Verify Java Course Fees
+2019-11-05 02:11:637 INFO  PracticePage :42 - Verify Python Course Fees
+2019-11-05 02:11:678 INFO  PracticePage :48 - Verify JavaScript Course Fees
+2019-11-05 02:11:589 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:612 INFO  PracticePage :53 - mouse hover
+2019-11-05 02:11:812 INFO  PracticePage :58 - verify mouse hover options
+2019-11-05 02:11:736 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:633 INFO  LoginPage :27 - click on login link
+2019-11-05 02:11:731 INFO  LoginPage :32 - enter email address
+2019-11-05 02:11:767 INFO  LoginPage :37 - enter password
+2019-11-05 02:11:860 INFO  LoginPage :42 - click on submit
+2019-11-05 02:11:109 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:945 INFO  PracticePage :38 - select BMW Radio Button
+2019-11-05 02:11:176 INFO  PracticePage :47 - select Benz Radio Button
+2019-11-05 02:11:274 INFO  PracticePage :56 - select Honda Option
+2019-11-05 02:11:77 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:351 INFO  PracticePage :66 - enter text in alert text box
+2019-11-05 02:11:121 INFO  PracticePage :71 - click on Alert Btn
+2019-11-05 02:11:281 INFO  PracticePage :76 - verify alert and accept alert
+2019-11-05 02:11:59 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:651 INFO  PracticePage :36 - Verify Java Course Fees
+2019-11-05 02:11:710 INFO  PracticePage :42 - Verify Python Course Fees
+2019-11-05 02:11:759 INFO  PracticePage :48 - Verify JavaScript Course Fees
+2019-11-05 02:11:513 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:332 INFO  PracticePage :53 - mouse hover
+2019-11-05 02:11:100 INFO  PracticePage :58 - verify mouse hover options
+2019-11-05 02:11:799 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:882 INFO  LoginPage :27 - click on login link
+2019-11-05 02:11:977 INFO  LoginPage :32 - enter email address
+2019-11-05 02:11:113 INFO  LoginPage :37 - enter password
+2019-11-05 02:11:237 INFO  LoginPage :42 - click on submit
+2019-11-05 02:11:876 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:285 INFO  PracticePage :38 - select BMW Radio Button
+2019-11-05 02:11:189 INFO  PracticePage :48 - select Benz Radio Button
+2019-11-05 02:11:326 INFO  PracticePage :57 - select Honda Option
+2019-11-05 02:11:212 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:867 INFO  PracticePage :68 - enter text in alert text box
+2019-11-05 02:11:971 INFO  PracticePage :73 - click on Alert Btn
+2019-11-05 02:11:69 INFO  PracticePage :79 - verify alert and accept alert
+2019-11-05 02:11:920 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:261 INFO  PracticePage :36 - Verify Java Course Fees
+2019-11-05 02:11:293 INFO  PracticePage :42 - Verify Python Course Fees
+2019-11-05 02:11:332 INFO  PracticePage :48 - Verify JavaScript Course Fees
+2019-11-05 02:11:69 INFO  BrowserSelector :23 - Chrome browser launch
+2019-11-05 02:11:122 INFO  PracticePage :53 - mouse hover
+2019-11-05 02:11:506 INFO  PracticePage :59 - verify mouse hover options
